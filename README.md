@@ -2,7 +2,7 @@
 My Server mods and plugins
 
 
-English/[简体中文](https://github.com/shizegame/My-Server-mods-and-plugins/README_CN.md)
+English/[简体中文](https://github.com/shizegame/My-Server-mods-and-plugins/blob/main/README_CN.md)
 
 
 Welcome to this place.
