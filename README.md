@@ -14,4 +14,4 @@ There are profiles and no profiles.
 
 You can choose whatever you want.
 
-If it feels good to you, please give my warehouse a star.
+If it feels good to you, please give me a star.
